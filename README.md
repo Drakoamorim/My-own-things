@@ -1,2 +1,3 @@
 # My-own-things
-Here I put random codes from various applications
+Here I put random codes from various applications.
+For now...
